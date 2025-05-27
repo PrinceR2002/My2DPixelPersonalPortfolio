@@ -81,7 +81,8 @@ export default async function initGame() {
   k.loadFont("ibm-regular", "./fonts/IBMPlexSans-Regular.ttf");
   k.loadFont("ibm-bold", "./fonts/IBMPlexSans-Bold.ttf");
 
-  k.loadShaderURL("tiledPattern", null, "/shaders/tiledPattern.frag");
+  k.loadShaderURL("tiledPattern", null, `${import.meta.env.BASE_URL}shaders/tiledPattern.frag`);
+
 
   if(k.width() < 1000){
     store.set(cameraZoomValueAtom, 0.5);
