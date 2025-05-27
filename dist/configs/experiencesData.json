@@ -1,0 +1,136 @@
+[
+    {
+      "pos": { "x": 150, "y": -100 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "🧠 What is RAG",
+        "description": "RAG stands for Retrieval-Augmented Generation. It’s a way to make AI smarter by letting it look things up before answering — like a student quickly checking their notes or Google before writing an essay.",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2024",
+          "endDate": "Present"
+        }
+      }
+    },
+    {
+      "pos": { "x": 150, "y": 180 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "💬 User writes a prompt",
+        "description": "What are recent ways climate change has disrupted farming in Sub-Saharan Africa?",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2021",
+          "endDate": "2023"
+        }
+      }
+    },
+    {
+      "pos": { "x": 150, "y": 180 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "📚 Data Retrieval",
+        "description": "The AI scans a large database of documents — like Wikipedia, research papers, or news articles — to find real passages about farming, climate change, and Africa. Imagine the AI skimming Google Scholar, UN reports, and news stories from the past year.",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2021",
+          "endDate": "2023"
+        }
+      }
+    },
+    {
+      "pos": { "x": 150, "y": 180 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "🗂 Knowledge Base (Trusted Sources)",
+        "description": "These documents are pulled from a knowledge base — a library of reliable sources. For example:\nA UN report on African droughts\nA recent Nature article on crop failures\nA World Bank brief on food insecurity",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2021",
+          "endDate": "2023"
+        }
+      }
+    },
+
+    {
+      "pos": { "x": 150, "y": 180 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "✍️ Generator (Write the Answer)",
+        "description": "Now the AI reads the documents it found and combines them with what it already knows to write a clear, useful response in your own words.\n✨ Like a student writing a paragraph after reading 3 solid sources.",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2021",
+          "endDate": "2023"
+        }
+      }
+    },
+
+    {
+      "pos": { "x": 150, "y": 180 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "💬 Response",
+        "description": "The AI replies:\nIn recent years, climate change has led to irregular rainfall and extended droughts in regions like the Sahel and Horn of Africa. This has severely disrupted local farming cycles, leading to lower crop yields, increased food prices, and migration of rural families. The 2023 UN FAO report also highlights how maize and millet production fell sharply in Ethiopia due to erratic weather.",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2021",
+          "endDate": "2023"
+        }
+      }
+    },
+
+    {
+      "pos": { "x": 150, "y": 180 },
+      "cardHeight": 300,
+      "roleData": {
+        "title": "✍️ Generator (Write the Answer)",
+        "description": "The AI generates a response based on patterns it learned in the past. It might say something like:\n“Climate change has affected farming in Sub-Saharan Africa by causing droughts and changing rainfall patterns. This can impact crop yields and lead to food insecurity.”\nIt’s technically correct — but very general, and maybe outdated.",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2021",
+          "endDate": "2023"
+        }
+      }
+    },
+
+    {
+      "pos": { "x": 150, "y": 180 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "💬 Response",
+        "description": "You get a vague, surface-level answer:\n“Climate change leads to unpredictable weather in Sub-Saharan Africa, which harms farming. This can result in food shortages.”",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2021",
+          "endDate": "2023"
+        }
+      }
+    },
+
+    {
+      "pos": { "x": 150, "y": -100 },
+      "cardHeight": 250,
+      "roleData": {
+        "title": "🧠 What is Traditional LLM",
+        "description": "A traditional LLM (Large Language Model) is like a super-smart student who read a huge library once and answers questions from memory — without looking anything up. It’s great with language but can forget facts or give outdated info since it can’t access new or external sources.",
+        "company": {
+          "name": "[\\REDACTED]",
+          "startDate": "2024",
+          "endDate": "Present"
+        }
+      }
+    }
+
+
+
+
+
+
+  ]
+
+
+
+
+
+  
